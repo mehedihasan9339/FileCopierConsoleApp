@@ -36,6 +36,5 @@ foreach (string file in allfiles)
 	}
 }
 Console.Beep();
-Console.BackgroundColor = ConsoleColor.Green;
 
 Console.ReadLine();
