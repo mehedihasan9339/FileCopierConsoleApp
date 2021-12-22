@@ -1,4 +1,6 @@
-﻿Console.Write("Source Path: ");
+﻿Console.Title = "File Copier Console App";
+
+Console.Write("Source Path: ");
 var sourcePath = Console.ReadLine();
 Console.Write("Destination Path: ");
 var destinationPath = Console.ReadLine();
